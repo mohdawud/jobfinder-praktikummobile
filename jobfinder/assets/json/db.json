@@ -1,0 +1,30 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "job_name": "Web Developer",
+      "job_detail": "Laravel",
+      "job_status": "Junior",
+      "company": "Google",
+      "company_logo": "images/google.png",
+      "work_time": "Full-time",
+      "salary": 8000000,
+      "address": "California",
+      "description": "Google is one of the leading technology companies in the world",
+      "requirement": "Position Product Manager at Google is a critical role"
+    },
+    {
+      "id": 2,
+      "job_name": "Web Developer",
+      "job_detail": "Javascript",
+      "job_status": "Junior",
+      "company": "Meta",
+      "company_logo": "images/meta.png",
+      "work_time": "Full-time",
+      "salary": 7000000,
+      "address": "California",
+      "description": "Google is one of the leading technology companies in the world",
+      "requirement": "Position Product Manager at Google is a critical role"
+    }
+  ]
+}
